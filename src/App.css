@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.text-center{
+  margin-top: 10px;
+  
+  background: rgba(0, 0, 0, 0.246)  
+
+}
+
+.input{
+  margin-top: 20%;
+}
+
+.text-stuff{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color:wheat;
+  font-weight: bold;
+
+}
+
+.image-adjust{
+  width: 400px;
+  height: 200px;
+}
